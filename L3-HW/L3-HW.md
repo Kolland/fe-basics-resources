@@ -2,4 +2,4 @@
 - Зверстати табличку зображену в файлі table_hw.png
 - Зверстати форму зображену в файлі forms_hw.png (перед початком почитати про атрибут (multiple)[http://htmlbook.ru/html/select/multiple] та (завантаження файлів)[http://htmlbook.ru/samhtml5/formy/zagruzka-failov])
 
-- Пройти тест 1.1.4 в LMS
+- Пройти тест 1.4 в LMS
