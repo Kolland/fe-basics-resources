@@ -14,3 +14,7 @@ Lesson 2 - HTML Basics Part 1
 Resouces
  - [Енциклопедія HTML тегів [rus]](http://htmlbook.ru/)
 
+Lesson 3 - HTML Basics Part 2
+
+Resouces
+ - [Секреты использования семантической верстки в HTML5 [rus]](https://medium.com/@stasonmars/секреты-использования-семантической-верстки-в-html5-c7cd5e6f1ebb)
