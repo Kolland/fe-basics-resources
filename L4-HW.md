@@ -1,0 +1,3 @@
+- Прочитати про властивість [background](https://developer.mozilla.org/ru/docs/Web/CSS/background), за допомогою якого можна встановити зразу всі властивості фона.
+- Зробити лабораторну з LMS#4 Lab work [(background and color)](https://lms.mainacad.com/mod/book/view.php?id=7706)
+- Для сайта з другого ДЗ (http://info.cern.ch/hypertext/WWW/TheProject.html) зробити темну тему (добавити темний бекграунд і зробити текст світлим)

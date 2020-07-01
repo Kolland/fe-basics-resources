@@ -18,3 +18,8 @@ Lesson 3 - HTML Basics Part 2
 
 Resouces
  - [Секреты использования семантической верстки в HTML5 [rus]](https://medium.com/@stasonmars/секреты-использования-семантической-верстки-в-html5-c7cd5e6f1ebb)
+
+Lesson 4 - CSS Basics (History, syntax, color, background-color)
+
+Resouces
+ - [Приклади відображення background size](https://cssreference.io/property/background-size/)
