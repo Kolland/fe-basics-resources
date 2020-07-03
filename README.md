@@ -23,3 +23,13 @@ Resouces
 
 Resouces
  - [Приклади відображення background size](https://cssreference.io/property/background-size/)
+
+## Lesson 5 - CSS Selectors (CSS Specificity, Pseudo-classes, pseudo-elements, combinators)
+
+Resouces
+ - [Прості селектори та комбінатори](https://developer.mozilla.org/uk/docs/Web/CSS/CSS_Selectors)
+ - [Специфічність](https://developer.mozilla.org/ru/docs/Web/CSS/Specificity)
+ - [Псевдо-класи](https://developer.mozilla.org/ru/docs/Web/CSS/%D0%9F%D1%81%D0%B5%D0%B2%D0%B4%D0%BE-%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B)
+ - [Псевдо-елементи](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
+ - [Калькулятор специфічності](https://specificity.keegan.st/)
+ - [Никто не знает CSS: специфичность — не каскад](https://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
