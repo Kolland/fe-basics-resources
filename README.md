@@ -33,3 +33,11 @@ Resouces
  - [Псевдо-елементи](https://developer.mozilla.org/ru/docs/Web/CSS/Pseudo-elements)
  - [Калькулятор специфічності](https://specificity.keegan.st/)
  - [Никто не знает CSS: специфичность — не каскад](https://css-live.ru/css/nikto-ne-znaet-css-specifichnost-ne-kaskad.html)
+
+## Lesson 6 - CSS Box model
+
+Resouces
+ - [Блоковая модель (боксовая модель, box model) MDN](https://developer.mozilla.org/ru/docs/Web/CSS/box_model)
+ - [Схлопывающиеся отступы](http://htmlbook.ru/samlayout/blochnaya-verstka/skhlopyvayushchiesya-otstupy)
+ - [Inline vs Inline-Block Display in CSS (ENG)](https://alligator.io/css/display-inline-vs-inline-block/)
+ - [Свойства Min и Max width/height в CSS](https://habr.com/ru/post/483634/)
