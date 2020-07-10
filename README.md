@@ -41,3 +41,10 @@ Resouces
  - [Схлопывающиеся отступы](http://htmlbook.ru/samlayout/blochnaya-verstka/skhlopyvayushchiesya-otstupy)
  - [Inline vs Inline-Block Display in CSS (ENG)](https://alligator.io/css/display-inline-vs-inline-block/)
  - [Свойства Min и Max width/height в CSS](https://habr.com/ru/post/483634/)
+
+## Lesson 7 - CSS Float
+
+Resouces
+ - [Float'омания: разъяснение как работает css свойство float](http://habrahabr.ru/post/136588/)
+ - [Clearfix](https://snipp.ru/html-css/clearfix)
+ - [Новый display:flow-root — не clearfix, но что это и зачем?](https://css-live.ru/faq/displayflow-root-not-clearfix.html)
