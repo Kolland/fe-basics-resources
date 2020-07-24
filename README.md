@@ -62,11 +62,17 @@ Resouces
  - [Раз­би­ра­ем­ся с vertical-align](https://web-standards.ru/articles/vertical-align/)
  - [Все способы вертикального выравнивания в CSS](https://habr.com/ru/company/netcracker/blog/277433/)
 
-## Lesson 10-11 - Flexbox
+## Lesson 10 - Flexbox 
 
 Resouces
  - [CodeFest 2013. Вадим Макеев (Opera Software): "Flexbox, теперь понятно"](https://www.youtube.com/watch?v=x0fcNDaE7Z0) - інформація про підтримку вже не актуальна, але практична частина допоможе краще зрозуміти флекси [(Слайди презентації)](https://pepelsbey.net/pres/flexbox-gotcha/#)
- - [Flexbox Froggy](https://flexboxfroggy.com/) - гра для вичення flexbox (обов'зкова для проходження)
+ - [Flexbox Froggy](https://flexboxfroggy.com/) - гра для вичення flexbox (обов'язкова для проходження)
  - [Вёрстка на Flexbox в CSS. Полный справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-flexbox-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D1%8B%D0%B8%CC%86-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-e26662cf87e0)
  - [flex-cheatsheet](https://yoksel.github.io/flex-cheatsheet/#section-flex-shrink)
  - [Float - Вёрстка в несколько колонок](https://learn.javascript.ru/float#vyorstka-v-neskolko-kolonok)
+
+ ## Lesson 11 - Flexbox Practice, viewport units
+
+Resouces
+ - [Flexbox bottom footer example](https://codepen.io/Kolland/pen/gOPqBgd?editors=1100)
+ - [Viewport единицы в CSS](https://medium.com/@stasonmars/viewport-%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D1%8B-%D0%B2-css-52c2b029f8b9)
