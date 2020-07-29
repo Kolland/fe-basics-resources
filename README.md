@@ -76,3 +76,9 @@ Resouces
 Resouces
  - [Flexbox bottom footer example](https://codepen.io/Kolland/pen/gOPqBgd?editors=1100)
  - [Viewport единицы в CSS](https://medium.com/@stasonmars/viewport-%D0%B5%D0%B4%D0%B8%D0%BD%D0%B8%D1%86%D1%8B-%D0%B2-css-52c2b029f8b9)
+
+ ## Lesson 12 - Multicolumns, Web Fonts
+
+Resouces
+ - [Multiple-column layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)
+ - [_ ___ ______? / Вадим Макеев - Доповідь веб шрифти, рекомендую для більш глибокого розуміння як ефективно використовувати веб шрифти](https://www.youtube.com/watch?v=4g2Ww7uFlBk)
