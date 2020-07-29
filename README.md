@@ -81,4 +81,4 @@ Resouces
 
 Resouces
  - [Multiple-column layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)
- - [_ ___ ______? / Вадим Макеев - Доповідь веб шрифти, рекомендую для більш глибокого розуміння як ефективно використовувати веб шрифти](https://www.youtube.com/watch?v=4g2Ww7uFlBk)
+ - [_ ___ ______? / Вадим Макеев](https://www.youtube.com/watch?v=4g2Ww7uFlBk) - Доповідь веб шрифти, рекомендую для більш глибокого розуміння як ефективно використовувати веб шрифти
