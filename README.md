@@ -82,3 +82,10 @@ Resouces
 Resouces
  - [Multiple-column layout MDN](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Multiple-column_Layout)
  - [_ ___ ______? / Вадим Макеев](https://www.youtube.com/watch?v=4g2Ww7uFlBk) - Доповідь веб шрифти, рекомендую для більш глибокого розуміння як ефективно використовувати веб шрифти
+
+ ## Lesson 13 - display:none, visibility, opacity, transitions
+
+Resouces
+ - [Как прятать](https://www.youtube.com/watch?v=Ns0zijQJxH4&feature=emb_logo) - Детальний розгляд як сховати елемент на сторінці
+ - [Использование CSS переходов](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
+ - [Шпаргалка функций плавности (easing)](https://easings.net/ru)
