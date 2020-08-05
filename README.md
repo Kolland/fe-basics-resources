@@ -89,3 +89,12 @@ Resouces
  - [Как прятать](https://www.youtube.com/watch?v=Ns0zijQJxH4&feature=emb_logo) - Детальний розгляд як сховати елемент на сторінці
  - [Использование CSS переходов](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions)
  - [Шпаргалка функций плавности (easing)](https://easings.net/ru)
+
+ ## Lesson 14 - animations, pictures in web, icon fonts, photoshop
+
+Resouces
+ - [Использование CSS-анимации](https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Animations/Ispolzovanie_CSS_animatciy)
+ - [JPG, PNG and SVG on the web: A beginner’s guide](https://cheesecakelabs.com/blog/jpg-png-svg-web-beginners-guide/) [в перекладі](https://freelance.today/poleznoe/jpg-png-i-svg-v-internete-rukovodstvo-dlya-nachinayuschih.html)
+ - [Как правильно вставлять SVG — HTML Шорты](https://www.youtube.com/watch?v=TNX0-JLdM_U)
+ - [Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
+ - [Основы Photoshop за 10 минут для web разработчика](https://www.youtube.com/watch?v=Kmkx3SfJwuc)
