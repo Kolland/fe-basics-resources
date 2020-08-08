@@ -98,3 +98,10 @@ Resouces
  - [Как правильно вставлять SVG — HTML Шорты](https://www.youtube.com/watch?v=TNX0-JLdM_U)
  - [Inline SVG vs Icon Fonts](https://css-tricks.com/icon-fonts-vs-svg/)
  - [Основы Photoshop за 10 минут для web разработчика](https://www.youtube.com/watch?v=Kmkx3SfJwuc)
+
+ ## Lesson 15 - Responsive/mobile web, media queries, responsive images
+
+Resouces
+ - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
+ - [Медиа-запросы](http://htmlbook.ru/css/value/media)
+ - [Responsive images](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
