@@ -105,3 +105,23 @@ Resouces
  - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
  - [Медиа-запросы](http://htmlbook.ru/css/value/media)
  - [Responsive images](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+
+## Lesson 16 - CSS Libraries/Frameworks
+
+Resouces
+ - [Нормальный сброс — HTML Шорты](https://www.youtube.com/watch?v=KGYmOlNteas&feature=emb_logo)
+ - [Normalize.css](https://necolas.github.io/normalize.css/)
+ - [CSS Tools: Reset CSS](https://meyerweb.com/eric/tools/css/reset/)
+ - [Animate.css](https://animate.style/)
+ - [Bootstrap](https://getbootstrap.com/)
+ - [Система сеток Bootstrap](https://bootstrap-4.ru/docs/4.0/layout/grid/)
+
+## Lesson 17 - CSS Architecture, BEM
+
+Resouces
+ - [CSS Architecture](https://philipwalton.com/articles/css-architecture/)[перевод](https://web-standards.ru/articles/css-architecture/)
+ - [Зачем нужен БЭМ — HTML Шорты](https://www.youtube.com/watch?v=lQPs20b3Ey8&list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1&index=17/)
+ - [CSS по БЭМ](https://ru.bem.info/methodology/css/) - офф документація
+ - [Часто задаваемые вопросы по BEM](https://ru.bem.info/methodology/faq/) - офф документація
+ - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/) - коротко і стисло про БЕМ на прикладах
+ - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
