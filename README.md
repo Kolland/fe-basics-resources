@@ -125,3 +125,31 @@ Resouces
  - [Часто задаваемые вопросы по BEM](https://ru.bem.info/methodology/faq/) - офф документація
  - [Как писать классы по БЭМ?](http://yoksel.github.io/easy-markup/bem-rules/) - коротко і стисло про БЕМ на прикладах
  - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
+
+## Lesson 18 - New in CSS, Grid, Transforms, Css variables, filter, Кросбраузерність, Gracefull Degradation, Progressive Enhencement
+
+Resouces
+ - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+ - [Вёрстка на Grid в CSS. Полное руководство и справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-grid-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-220508316f8b)
+ - [МОЖНО ВООБЩЕ ВСЁ. РАСКЛАДКА ПО ГРИДУ - Вадим Макеев](https://www.youtube.com/watch?v=hAFcdRrhwQM)
+ - [CSS3-трансформации](https://html5book.ru/css3-transform/)
+ - [Кастомные свойства (Css Variables) — HTML Шорты](https://www.youtube.com/watch?v=Ag98mgI4bXA&list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1&index=16)
+ - [CSS Filter](https://developer.mozilla.org/uk/docs/Web/CSS/filter)
+ - [Кроссбраузерная вёрстка — HTML Шорты](https://www.youtube.com/watch?v=xFZWHLjNXdI&list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1)
+ - [Graceful degradation? Progressive enhancement? Га?](https://medium.com/@barvysta/graceful-degradation-progressive-enhancement-%D0%B3%D0%B0-24713c55da80)
+
+
+## Lesson 18 - GIT - Branch, Merge, Pull Request, VS Code Git. Javascript - Tag script, variables, use strict, alert, prompt
+
+Resouces
+ - [Learn GIT branching [eng]](https://learngitbranching.js.org/)
+ - [Керівництво по розробці з Git [ukr]](https://github.com/denysdovhan/git-style-guide)
+ - [GIt cheat sheet [rus]](https://github.github.com/training-kit/downloads/ru/github-git-cheat-sheet/)
+ - [Скрінкаст по GIT](https://www.youtube.com/playlist?list=PLDyvV36pndZHkDRik6kKF6gSb0N0W995h)
+ - [Creating a Simple Github Pull Request](https://www.youtube.com/watch?v=rgbCcBNZcdQ)
+ - РЕКОМЕНДУЮ: Почати проходження [цього курсу на codecadеmy](https://www.codecademy.com/learn/introduction-to-javascript) - так Вам буде простіше сприймати матеріал на лекціях
+ - [Привет, мир!](https://learn.javascript.ru/hello-world)
+ - [Структура кода](https://learn.javascript.ru/structure)
+ - [Строгий режим — "use strict"](https://learn.javascript.ru/strict-mode)
+ - [Переменные](https://learn.javascript.ru/variables)
+ - [Взаимодействие: alert, prompt, confirm](https://learn.javascript.ru/alert-prompt-confirm)
