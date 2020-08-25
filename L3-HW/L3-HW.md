@@ -3,3 +3,4 @@
 - Зверстати форму зображену в файлі forms_hw.png (перед початком почитати про атрибут (multiple)[http://htmlbook.ru/html/select/multiple] та (завантаження файлів)[http://htmlbook.ru/samhtml5/formy/zagruzka-failov])
 
 - Пройти тест 1.4 в LMS
+- [Не забывай про Shift Z Z] (https://www.google.com/search?sxsrf=ALeKk03IAaFCRexlUvl-efEEY7bac14Xiw%3A1597940280481&ei=OKI-X578HMeIrwSVrKM4&q=Shift+zz&oq=Shift+zz&gs_lcp=CgZwc3ktYWIQDDIFCAAQywEyAggAMgIIADIGCAAQFhAeMgYIABAWEB4yBggAEBYQHjIICAAQFhAKEB4yBggAEBYQHjIGCAAQFhAeMggIABAWEAoQHjoICAAQChABECo6BAguEAo6BAgAEAo6BggAEAoQAToGCC4QChABOgQIABBDOgcIIxDqAhAnOggIABCxAxCDAToFCAAQsQM6CAguELEDEJMCOgUILhCxAzoCCC46BQguEJMCOgQIABAeOggIABAFEAoQHjoECCMQJzoHCAAQsQMQQ1Cd_-YBWMHZ5wFg2vznAWgIcAB4A4ABvQqIAZY1kgEQMC4xMC41LjAuMi4xLjAuMpgBAKABAaoBB2d3cy13aXqwAQrAAQE&sclient=psy-ab&ved=0ahUKEwie-Ki2l6rrAhVHxIsKHRXWCAcQ4dUDCAw)
