@@ -153,3 +153,11 @@ Resouces
  - [Строгий режим — "use strict"](https://learn.javascript.ru/strict-mode)
  - [Переменные](https://learn.javascript.ru/variables)
  - [Взаимодействие: alert, prompt, confirm](https://learn.javascript.ru/alert-prompt-confirm)
+
+## Lesson 19 - Типи даних Javascript, конвертація типів
+
+Resouces
+ - [Типы данных](https://learn.javascript.ru/types)
+ - [Преобразование типов](https://learn.javascript.ru/type-conversions)
+ - [Операторы сравнения](https://learn.javascript.ru/comparison)
+ - [Операторы](https://learn.javascript.ru/operators)
