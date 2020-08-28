@@ -162,7 +162,7 @@ Resouces
  - [Операторы сравнения](https://learn.javascript.ru/comparison)
  - [Операторы](https://learn.javascript.ru/operators)
 
-## Lesson 19 - Логічні оператори, if, цикли for, while
+## Lesson 20 - Логічні оператори, if, цикли for, while
 
 Resouces
  - [Логические операторы](https://learn.javascript.ru/logical-operators)
