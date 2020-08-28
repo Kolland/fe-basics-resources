@@ -161,3 +161,10 @@ Resouces
  - [Преобразование типов](https://learn.javascript.ru/type-conversions)
  - [Операторы сравнения](https://learn.javascript.ru/comparison)
  - [Операторы](https://learn.javascript.ru/operators)
+
+## Lesson 19 - Логічні оператори, if, цикли for, while
+
+Resouces
+ - [Логические операторы](https://learn.javascript.ru/logical-operators)
+ - [Условные операторы: if, '?'](https://learn.javascript.ru/ifelse)
+ - [Циклы while и for](https://learn.javascript.ru/while-for)
