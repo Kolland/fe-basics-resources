@@ -119,7 +119,7 @@ Resouces
 ## Lesson 17 - CSS Architecture, BEM
 
 Resouces
- - [CSS Architecture](https://philipwalton.com/articles/css-architecture/)[перевод](https://web-standards.ru/articles/css-architecture/)
+ - [CSS Architecture](https://philipwalton.com/articles/css-architecture/) [(перевод)](https://web-standards.ru/articles/css-architecture/)
  - [Зачем нужен БЭМ — HTML Шорты](https://www.youtube.com/watch?v=lQPs20b3Ey8&list=PLQJNT2fdCJngOj0mGZaTcZRyfSBTCWHe1&index=17/)
  - [CSS по БЭМ](https://ru.bem.info/methodology/css/) - офф документація
  - [Часто задаваемые вопросы по BEM](https://ru.bem.info/methodology/faq/) - офф документація
