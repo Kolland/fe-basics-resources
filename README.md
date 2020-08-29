@@ -140,7 +140,7 @@ Resouces
  - [Graceful degradation? Progressive enhancement? Га?](https://medium.com/@barvysta/graceful-degradation-progressive-enhancement-%D0%B3%D0%B0-24713c55da80)
 
 
-## Lesson 18 - GIT - Branch, Merge, Pull Request, VS Code Git. Javascript - Tag script, variables, use strict, alert, prompt
+## Lesson 19 - GIT - Branch, Merge, Pull Request, VS Code Git. Javascript - Tag script, variables, use strict, alert, prompt
 
 Resouces
  - [Learn GIT branching [eng]](https://learngitbranching.js.org/)
@@ -155,7 +155,7 @@ Resouces
  - [Переменные](https://learn.javascript.ru/variables)
  - [Взаимодействие: alert, prompt, confirm](https://learn.javascript.ru/alert-prompt-confirm)
 
-## Lesson 19 - Типи даних Javascript, конвертація типів
+## Lesson 20 - Типи даних Javascript, конвертація типів
 
 Resouces
  - [Типы данных](https://learn.javascript.ru/types)
@@ -163,7 +163,7 @@ Resouces
  - [Операторы сравнения](https://learn.javascript.ru/comparison)
  - [Операторы](https://learn.javascript.ru/operators)
 
-## Lesson 20 - Логічні оператори, if, цикли for, while
+## Lesson 21 - Логічні оператори, if, цикли for, while
 
 Resouces
  - [Логические операторы](https://learn.javascript.ru/logical-operators)
