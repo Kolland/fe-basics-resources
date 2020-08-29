@@ -105,6 +105,7 @@ Resouces
  - [Responsive web design basics](https://web.dev/responsive-web-design-basics/)
  - [Медиа-запросы](http://htmlbook.ru/css/value/media)
  - [Responsive images](https://developer.mozilla.org/ru/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
+ - [Адаптивная вёрстка](https://htmlacademy.ru/blog/boost/frontend/short-16)
 
 ## Lesson 16 - CSS Libraries/Frameworks
 
