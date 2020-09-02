@@ -169,3 +169,11 @@ Resouces
  - [Логические операторы](https://learn.javascript.ru/logical-operators)
  - [Условные операторы: if, '?'](https://learn.javascript.ru/ifelse)
  - [Циклы while и for](https://learn.javascript.ru/while-for)
+
+## Lesson 22 - switch, functions
+
+Resouces
+ - [Конструкция "switch"](https://learn.javascript.ru/switch)
+ - [Функции](https://learn.javascript.ru/function-basics)
+ - [Function Expression](https://learn.javascript.ru/function-expressions)
+ - [Функции-стрелки, основы](https://learn.javascript.ru/arrow-functions-basics)
