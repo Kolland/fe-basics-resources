@@ -170,10 +170,18 @@ Resouces
  - [Условные операторы: if, '?'](https://learn.javascript.ru/ifelse)
  - [Циклы while и for](https://learn.javascript.ru/while-for)
 
-## Lesson 22 - switch, functions
+## Lesson 22 - Switch, functions
 
 Resouces
  - [Конструкция "switch"](https://learn.javascript.ru/switch)
  - [Функции](https://learn.javascript.ru/function-basics)
  - [Function Expression](https://learn.javascript.ru/function-expressions)
  - [Функции-стрелки, основы](https://learn.javascript.ru/arrow-functions-basics)
+
+## Lesson 23 - Recursions, string and number methods
+
+Resouces
+ - [Рекурсия и стек](https://learn.javascript.ru/recursion)
+ - [Методы у примитивов](https://learn.javascript.ru/primitives-methods)
+ - [Строки](https://learn.javascript.ru/string)
+ - [Числа](https://learn.javascript.ru/number)
