@@ -185,3 +185,10 @@ Resouces
  - [Методы у примитивов](https://learn.javascript.ru/primitives-methods)
  - [Строки](https://learn.javascript.ru/string)
  - [Числа](https://learn.javascript.ru/number)
+
+## Lesson 24 - Object, Object.assign, Array, Basic array methods and props
+
+Resouces
+ - [Объекты](https://learn.javascript.ru/object)
+ - [Массивы](https://learn.javascript.ru/array)
+ - [Методы массивов](https://learn.javascript.ru/array-methods)
