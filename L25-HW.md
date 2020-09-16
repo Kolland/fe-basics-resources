@@ -51,6 +51,7 @@ console.log( unique(strings) ); // open, menu, 8-()
 var arr = ['осел', 'банка', 'лісок', 'село', 'кабан', 'сокіл'];
 
 console.log( anClean(arr) ); // 'осел,банка,лісок' або 'село,кабан,сокіл'
+```
 
 **Задачки на CodeWars**
 - [Use reduce() to calculate the sum of the values in an array](https://www.codewars.com/kata/use-reduce-to-calculate-the-sum-of-the-values-in-an-array)
