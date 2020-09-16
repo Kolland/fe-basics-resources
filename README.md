@@ -186,7 +186,7 @@ Resouces
  - [Строки](https://learn.javascript.ru/string)
  - [Числа](https://learn.javascript.ru/number)
 
-## Lesson 24 - Object, Object.assign, Array, Basic array methods and props
+## Lesson 24-25 - Object, Object.assign, Array, Basic array methods and props
 
 Resouces
  - [Объекты](https://learn.javascript.ru/object)
