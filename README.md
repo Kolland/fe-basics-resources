@@ -192,3 +192,9 @@ Resouces
  - [Объекты](https://learn.javascript.ru/object)
  - [Массивы](https://learn.javascript.ru/array)
  - [Методы массивов](https://learn.javascript.ru/array-methods)
+
+## Lesson 26 - Spread operator, arguments, Closure, IIFE(Modules) 
+
+Resouces
+ - [Замыкание, IIFE](https://learn.javascript.ru/closure)
+ - [Остаточные параметры и оператор расширения](https://learn.javascript.ru/rest-parameters-spread-operator)
