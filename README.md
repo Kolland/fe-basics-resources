@@ -207,3 +207,9 @@ Resouces
  - [Явное указание this: "call", "apply"](https://learn.javascript.ru/call-apply)
  - [Привязка контекста к функции - bind](https://learn.javascript.ru/bind)
  - [Конструкторы, создание объектов через "new"](https://learn.javascript.ru/constructor-new)
+
+## Lesson 28 - SetTimeout, setInterval, prototypes
+
+Resouces
+ - [Планирование: setTimeout и setInterval](https://learn.javascript.ru/settimeout-setinterval)
+ - [Прототипы, наследование](https://learn.javascript.ru/prototypes)
