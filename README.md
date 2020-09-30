@@ -208,7 +208,13 @@ Resouces
  - [Привязка контекста к функции - bind](https://learn.javascript.ru/bind)
  - [Конструкторы, создание объектов через "new"](https://learn.javascript.ru/constructor-new)
 
-## Lesson 28 - Transpiling and Polyfill, Classes, try...catch, debugger
+## Lesson 28 - SetTimeout, setInterval, prototypes
+
+Resouces
+ - [Планирование: setTimeout и setInterval](https://learn.javascript.ru/settimeout-setinterval)
+ - [Прототипы, наследование](https://learn.javascript.ru/prototypes)
+
+ ## Lesson 29 - Transpiling and Polyfill, Classes, try...catch, debugger
 
 Resouces
  - [Полифилы](https://learn.javascript.ru/polyfills)
