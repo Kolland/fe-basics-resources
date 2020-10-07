@@ -221,3 +221,8 @@ Resouces
  - [Классы](https://learn.javascript.ru/classes)
  - [Обработка ошибок](https://learn.javascript.ru/error-handling)
  - [Отладка в браузере Chrome](https://learn.javascript.ru/debugging-chrome)
+
+ ## Lesson 30-31 - DOM, searching, attributes and properties
+
+Resouces
+ - [Документ](https://learn.javascript.ru/document)
