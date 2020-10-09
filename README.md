@@ -226,3 +226,9 @@ Resouces
 
 Resouces
  - [Документ](https://learn.javascript.ru/document)
+
+ ## Lesson 32 - Events, bubbling
+
+Resouces
+ - [Введение в события](https://learn.javascript.ru/events)
+ - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
