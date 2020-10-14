@@ -232,3 +232,8 @@ Resouces
 Resouces
  - [Введение в события](https://learn.javascript.ru/events)
  - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+ 
+  ## Lesson 33 - Form, form events
+ 
+ Resouces
+  - [Формы, элементы управления](https://learn.javascript.ru/forms-controls)
