@@ -233,7 +233,14 @@ Resouces
  - [Введение в события](https://learn.javascript.ru/events)
  - [HTML DOM Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
  
-  ## Lesson 33 - Form, form events
+## Lesson 33 - Form, form events
  
  Resouces
   - [Формы, элементы управления](https://learn.javascript.ru/forms-controls)
+
+## Lesson 34 - Sass, npm, gulp
+ 
+ Resouces
+  - [Основы Sass](https://sass-scss.ru/guide/)
+  - [Основы работы с NPM](https://www.youtube.com/watch?v=2e0hbjtUT-4)
+  - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)

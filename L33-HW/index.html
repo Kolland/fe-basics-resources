@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<script>
+    const user = {
+        "firstname": "Tyler",
+        "lastname": "Durden",
+        "sex": "male",
+        "role": "alter-ego",
+        "hobby": ["fight", "soap"],
+    }
+</script>
+
+<body>
+    <form>
+        <fieldset>
+            <label>
+                Firstname
+                <input type="text" name="firstname">
+            </label>
+            <br>
+            <label>
+                Lastname
+                <input type="text" name="lastname">
+            </label>
+            <br>
+            <label>
+                Role
+                <select name="role">
+                    <option value="narator">Narator</option>
+                    <option value="alter-ego">Alter Ego</option>
+                </select>
+            </label>
+            <fieldset>
+                Sex <br>
+                <label>
+                    Male
+                    <input type="radio" name="sex" value="male">
+                </label>
+                <label>
+                    Female
+                    <input type="radio" name="sex" value="female">
+                </label>
+            </fieldset>
+            <fieldset>
+                Hobby <br>
+                <label>
+                    Fight
+                    <input type="checkbox" name="hobby" value="fight">
+                </label>
+                <label>
+                    Make soap
+                    <input type="checkbox" name="hobby" value="soap">
+                </label>
+                <label>
+                    Grow flowers
+                    <input type="checkbox" name="hobby" value="flowers">
+                </label>
+            </fieldset>
+        </fieldset>
+
+        <button type="submit">Update</button>
+    </form>
+</body>
+
+</html>
