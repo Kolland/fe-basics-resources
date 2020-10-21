@@ -243,4 +243,11 @@ Resouces
  Resouces
   - [Основы Sass](https://sass-scss.ru/guide/)
   - [Основы работы с NPM](https://www.youtube.com/watch?v=2e0hbjtUT-4)
-  - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/)
+  - [Gulp for Beginners](https://css-tricks.com/gulp-for-beginners/) - приклади основані на gulp V3
+
+## Lesson 35 - Event Loop, Promises/async basics, browserSync
+ 
+ Resouces
+  - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - присутні субтитри російською
+  - [Промисы, async/await](https://learn.javascript.ru/async)
+  - [Абсолютный и относительный путь к файлам](http://www.uamedwed.com/blog/web/absolyutnyj-i-otnositelnyj-put-k-fajlam.html)
