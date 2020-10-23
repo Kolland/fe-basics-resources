@@ -1,0 +1,14 @@
+{
+    "products": [
+        { 
+            "id": 1, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "",
+            "backPic": "",
+            "price": "29.95",
+            "categories": ["women", "t-shirt"]
+        }
+    ],
+    "categories": ["women", "men", "t-shirt"]
+  }
