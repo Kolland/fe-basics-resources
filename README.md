@@ -252,7 +252,7 @@ Resouces
   - [Промисы, async/await](https://learn.javascript.ru/async)
   - [Абсолютный и относительный путь к файлам](http://www.uamedwed.com/blog/web/absolyutnyj-i-otnositelnyj-put-k-fajlam.html)
 
-## Lesson 35 - Fetch, HTTP methods, REST
+## Lesson 36 - Fetch, HTTP methods, REST
  
  Resouces
   - [Fetch](https://learn.javascript.ru/fetch)
