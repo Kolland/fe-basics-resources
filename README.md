@@ -251,3 +251,10 @@ Resouces
   - [Филипп Робертс: Что за чертовщина такая event loop? | JSConf EU 2014](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - присутні субтитри російською
   - [Промисы, async/await](https://learn.javascript.ru/async)
   - [Абсолютный и относительный путь к файлам](http://www.uamedwed.com/blog/web/absolyutnyj-i-otnositelnyj-put-k-fajlam.html)
+
+## Lesson 35 - Fetch, HTTP methods, REST
+ 
+ Resouces
+  - [Fetch](https://learn.javascript.ru/fetch)
+  - [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
+  - [Промисы на примере бургер-вечеринки](https://habr.com/ru/company/nix/blog/323066/)

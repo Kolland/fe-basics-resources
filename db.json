@@ -4,9 +4,55 @@
             "id": 1, 
             "title": "Womens burnt orange casual tee",
             "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
-            "frontPic": "",
-            "backPic": "",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-1.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-1.jpg",
+            "price": "89.99",
+            "categories": ["men"]
+        },
+        { 
+            "id": 2, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-2.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-2.jpg",
+            "price": "47.50",
+            "categories": ["women", "t-shirt"]
+        },
+        { 
+            "id": 3, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-5.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-5.jpg",
+            "price": "107",
+            "discount": "89.99",
+            "categories": ["men"]
+        },
+        { 
+            "id": 4, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/itme-6.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/itme-6.jpg",
+            "price": "69.95",
+            "categories": ["men"]
+        },
+        { 
+            "id": 5, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-3.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-3-back.jpg",
             "price": "29.95",
+            "categories": ["women", "t-shirt"]
+        },
+        { 
+            "id": 6, 
+            "title": "Womens burnt orange casual tee",
+            "description": "Classic casual t-shirt for women on the move. 100% cotton. A hard-wearing sports t-shirt with microvent technology.",
+            "frontPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-4.jpg",
+            "backPic": "https://raw.githubusercontent.com/Kolland/fe-basics-resources/master/Additional%20CSS%20HW/images/item-4.jpg",
+            "price": "34.79",
             "categories": ["women", "t-shirt"]
         }
     ],
