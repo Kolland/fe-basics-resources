@@ -258,3 +258,10 @@ Resouces
   - [Fetch](https://learn.javascript.ru/fetch)
   - [Типы HTTP-запросов и философия REST](https://habr.com/ru/post/50147/)
   - [Промисы на примере бургер-вечеринки](https://habr.com/ru/company/nix/blog/323066/)
+
+## Lesson 37 - JS Libraries, jQUery, Lodash, CDN
+ 
+ Resouces
+  - [jQuery API](https://api.jquery.com/)
+  - [Lodash](https://lodash.com/docs/4.17.15)
+  - [Что такое CDN и как это работает?](https://habr.com/ru/company/selectel/blog/463915/)

@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.css">
+
+    <style>
+        html,
+        body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            padding-top: 40px;
+            padding-bottom: 40px;
+            background-color: #f5f5f5;
+        }
+
+        .form-search {
+            width: 100%;
+            max-width: 330px;
+            padding: 15px;
+            margin: auto;
+        }
+
+        .form-search .form-control {
+            position: relative;
+            box-sizing: border-box;
+            height: auto;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .form-search .form-control:focus {
+            z-index: 2;
+        }
+
+        .card-text {
+            max-height: 120px;
+            overflow: hidden;
+        }
+    </style>
+</head>
+
+<body class="text-center">
+    <form class="form-search">
+        <h1 class="h3 mb-3 font-weight-normal">SEARCH</h1>
+        <input type="text" class="form-control" id="search-field">
+
+        <div class="card" style="width: 18rem;" id="result-card">
+        </div>
+    </form>
+    <p class="mt-5 mb-3 text-muted">Powered By DuckDuckGo© 2020</p>
+
+    <script src="node_modules/jquery/dist/jquery.js"></script>
+    <script src="node_modules/lodash/lodash.js"></script>
+
+    <script>
+        function getAutocomplete(string) {
+            return fetch(`https://api.duckduckgo.com/?q=${string}&format=json`)
+                .then(result => result.json())
+        }
+
+        function buildTemplate(title, imageLink, description, url) {
+            return `
+                <img src="${imageLink}" class="card-img-top">
+                <div class="card-body">
+                    <h5 class="card-title">${title}</h5>
+                    <p class="card-text">${description}</p>
+                    <a href="${url}" class="btn btn-primary">Link</a>
+                </div>
+            `
+        }
+
+        $('#search-field').on('keyup', function() {
+            getAutocomplete(this.value).then(result => {
+                $('#result-card').html(buildTemplate(result.Heading, result.Image, result.AbstractText, result.AbstractURL))
+            })
+        })
+    </script>
+</body>
+
+</html>
