@@ -265,3 +265,9 @@ Resouces
   - [jQuery API](https://api.jquery.com/)
   - [Lodash](https://lodash.com/docs/4.17.15)
   - [Что такое CDN и как это работает?](https://habr.com/ru/company/selectel/blog/463915/)
+
+## Lesson 37 - Cookie, localStorage, sessionStorage, ES6 import/export
+ 
+ Resouces
+  - [Хранение данных в браузере](https://learn.javascript.ru/data-storage)
+  - [Модули](https://learn.javascript.ru/modules)
