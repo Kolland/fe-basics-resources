@@ -266,8 +266,24 @@ Resouces
   - [Lodash](https://lodash.com/docs/4.17.15)
   - [Что такое CDN и как это работает?](https://habr.com/ru/company/selectel/blog/463915/)
 
-## Lesson 37 - Cookie, localStorage, sessionStorage, ES6 import/export
+## Lesson 38 - Cookie, localStorage, sessionStorage, ES6 import/export
  
  Resouces
   - [Хранение данных в браузере](https://learn.javascript.ru/data-storage)
   - [Модули](https://learn.javascript.ru/modules)
+
+## Lesson 39 - Webpack, Parcel
+ 
+ Resouces
+  - [Настройка Webpack 5 с нуля](https://habr.com/ru/post/524260/)
+  - [Приклад простого Webpack конфіга](https://github.com/taniarascia/webpack-boilerplate/blob/master/config/webpack.common.js)
+  - [Parcel — туторіал](https://habr.com/ru/company/ruvds/blog/473764/)
+
+## Lesson 40 - OOP, FP, KISS, DRY, SOLID
+ 
+ Resouces
+  - [Вступление в Объектно-ориентированный JavaScript](https://developer.cdn.mozilla.net/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
+  - [Немного о функциональном программирование в JavaScript](https://fwdays.com/event/js-frameworks-day-2015/review/functional-programming-in-javascript)
+  - [S.O.L.I.D-ый JavaScript](https://www.youtube.com/watch?v=wi3wPzReKZQ)
+  - [10 Tips For Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg)
+  - [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/) - KISS, DRY, YAGNI
