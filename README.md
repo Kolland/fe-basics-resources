@@ -287,3 +287,12 @@ Resouces
   - [S.O.L.I.D-ый JavaScript](https://www.youtube.com/watch?v=wi3wPzReKZQ)
   - [10 Tips For Clean Code](https://www.youtube.com/watch?v=UjhX2sVf0eg)
   - [Три ключевых принципа ПО, которые вы должны понимать](https://habr.com/ru/post/144611/) - KISS, DRY, YAGNI
+
+## Lesson 41 - JSDoc, ESLint, TypeScript Overwiew
+ 
+ Resouces
+  - [JSDoc - Вики](https://ru.wikipedia.org/wiki/JSDoc)
+  - [Jsdoc cheatsheet](https://devhints.io/jsdoc)
+  - [Eslint - 10 минутный быстрый старт](https://monsterlessons.com/project/lessons/eslint)
+  - [Держи свой код чистым с помощью ESLint](https://frontend-stuff.com/blog/eslint/)
+  - [TypeScript за 30 хвилин](https://codeguida.com/post/475)
