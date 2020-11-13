@@ -296,3 +296,8 @@ Resouces
   - [Eslint - 10 минутный быстрый старт](https://monsterlessons.com/project/lessons/eslint)
   - [Держи свой код чистым с помощью ESLint](https://frontend-stuff.com/blog/eslint/)
   - [TypeScript за 30 хвилин](https://codeguida.com/post/475)
+
+## Lesson 42 - WebSockets
+ 
+ Resouces
+  - [WebSocket](https://learn.javascript.ru/websockets)
