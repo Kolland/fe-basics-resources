@@ -301,3 +301,10 @@ Resouces
  
  Resouces
   - [WebSocket](https://learn.javascript.ru/websockets)
+  
+## Lesson 43 - WebComponents
+ 
+ Resouces
+  - [Веб-компоненты](https://learn.javascript.ru/web-components)
+  - [Что такое веб компоненты и зачем они вам могут понадобиться — Дмитрий Выкочко](https://www.youtube.com/watch?v=vHrWXCxqYw0)
+  - [Веб компоненты: светлое настоящее, Вадим Черненко](https://www.youtube.com/watch?v=KjPsp_PVPuU)

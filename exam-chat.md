@@ -10,16 +10,16 @@
 
 **Login**
 ```javascript
-'https://simple-chat-demo.herokuapp.com/auth/login'
+POST: 'https://simple-chat-demo.herokuapp.com/auth/login'
 
-Request body
+Request body example
 
 {
 	"nickname": "123",
 	"password": "123"
 }
 
-Response body
+Response body example
 
 {
     "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrbmFtZSI6IjEyMyIsInN1YiI6IjVmYWQ4OWRjMWRhOGFjYTAxMGExYTg2MyIsImlhdCI6MTYwNTI1OTI1OCwiZXhwIjoxNjA1MjU5MzE4fQ.J6ZUfDmka6I6I-LjQ5-0_MePDxYtTIqC_DJ41K5o-M0"
@@ -28,16 +28,16 @@ Response body
 
 **Sign-up**
 ```javascript
-'https://simple-chat-demo.herokuapp.com/auth/sign-up'
+POST: 'https://simple-chat-demo.herokuapp.com/auth/sign-up'
 
-Request body
+Request body example
 
 {
 	"nickname": "123",
 	"password": "123"
 }
 
-Response body
+Response body example
 
 {
     "_id": "5fae50708bbb27001742d7f3",
@@ -71,6 +71,52 @@ fetch('https://simple-chat-demo.herokuapp.com/auth/sign-up', {
 
     return res.json();
 })
+.then((data) => {
+    console.log(data);
+})
+```
+
+**2. User profile/Create Chat**
+
+Ендпойнти для отримання профайлу юзера та створення нового чату наступні
+
+*NOTE: Всі запити нижче повинні відправлятися з хедером 'Authorization'*
+
+**User profile**
+```javascript
+GET: 'https://simple-chat-demo.herokuapp.com/profile'
+
+Response body exmple
+
+{
+  nickname: "nick-1",
+  userId: "5fb405b208ed9c0017c3ca61"
+}
+```
+
+**Create chat**
+```javascript
+POST: 'https://simple-chat-demo.herokuapp.com/chat'
+
+Response body example
+
+{
+    "connectId": "7144"
+    "__v": 0
+    "_id": "5fb4f3151a81ef3940b1def3"
+}
+```
+
+**Приклад запиту**
+```javascript
+fetch('https://simple-chat-demo.herokuapp.com/profile', {
+    method: "GET",
+    headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrbmFtZSI6Im5pY2stMSIsInN1YiI6IjVmYjQwNWIyMDhlZDljMDAxN2MzY2E2MSIsImlhdCI6MTYwNTY5MzMyMiwiZXhwIjoxNjA2Mjk4MTIyfQ.JYJW02vzvY8ein1L6NKXvohKZLm_9OUVHJz2_Ut0W7w'
+    }
+})
+.then(res => res.json())
 .then((data) => {
     console.log(data);
 })
