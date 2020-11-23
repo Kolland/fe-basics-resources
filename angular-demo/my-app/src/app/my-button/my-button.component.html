@@ -1,0 +1,12 @@
+<input type="text" [(ngModel)]="inputText">
+
+<div *ngFor="let product of products">
+    <div class="product"
+        style="background-image: url({{ product.frontPic }})">
+        <span class="price">{{ product.price }}</span>
+        <span class="price">{{ product.description }}</span>
+    </div>
+</div>
+
+
+

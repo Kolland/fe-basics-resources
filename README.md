@@ -308,3 +308,10 @@ Resouces
   - [Веб-компоненты](https://learn.javascript.ru/web-components)
   - [Что такое веб компоненты и зачем они вам могут понадобиться — Дмитрий Выкочко](https://www.youtube.com/watch?v=vHrWXCxqYw0)
   - [Веб компоненты: светлое настоящее, Вадим Черненко](https://www.youtube.com/watch?v=KjPsp_PVPuU)
+
+## Lesson 43 - VueJs and Angular Overview
+ 
+ Resouces
+  - [VueJs Doc](https://ru.vuejs.org/v2/guide/)
+  - [Intro to Vue 2 (Eng)](https://www.vuemastery.com/courses/intro-to-vue-js/vue-instance/)
+  - [Скринкаст по Angular](https://learn.javascript.ru/screencast/angular)

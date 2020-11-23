@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  .price {
+    color: green;
+  }
+  
+  .products {
+    margin-left: -15px;
+    margin-right: -15px;
+  }
+  
+  .products-container {
+    overflow: hidden;
+  }
+  
+  .product {
+    border: 15px solid white;
+    box-sizing: border-box;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color: #f8f8f8;
+    height: 300px;
+    width: 200px;
+  }
+  
+  .product.big {
+    width: calc((var(--products-container-width) / 4) * 2);
+    height: calc((var(--products-container-width) / 4) * 1.67);
+    background-size: contain;
+  }
+  
+  .d-none {
+    display: none;
+  }
+  

@@ -122,4 +122,103 @@ fetch('https://simple-chat-demo.herokuapp.com/profile', {
 })
 ```
 
+**3. Work with messages**
+Робота чату базується на web sockets. 
+
+Лінк для підключення до чату - `ws://simple-chat-demo.herokuapp.com`
+
+Спілкування з сервером виконується на основі івентів
+
+Існує 4 основних івента для відправки та отримання повідомлень.
+
+`enter` - використовується для входу в чат
+
+**Приклад івенту**
+```javascript
+    socket.send(JSON.stringify({
+        event: 'enter',
+        data: {
+            token: // токен користувача (без Bearer приставки),
+            connectId: // connectId чату в який потрібно зайти (4 цифри)
+        }
+    }))
+```
+
+`enter` - використовується для входу в чат
+
+**Приклад івенту**
+```javascript
+    socket.send(JSON.stringify({
+        event: 'enter',
+        data: {
+            token: // токен користувача (без Bearer приставки),
+            connectId: // connectId чату в який потрібно зайти (4 цифри)
+        }
+    }))
+```
+
+`message` - відправка та отримання повідомлень
+
+**Приклад івенту**
+```javascript
+    // Відправка повідомлення в чат
+    socket.send(JSON.stringify({
+        event: 'message',
+        data: {
+            message: // повідомлення,
+            token: // токен користувача (без Bearer приставки),
+            connectId: // connectId чату в який потрібно відправти повідомелння (4 цифри)
+        }
+    }))
+```
+
+**Приклад отримання повідомлель**
+```javascript
+    socket.onmessage = (res) => {
+        const data = JSON.parse(res.data);
+
+        data.event // - назва івенту
+        data.data // - дані повідомлення
+
+        switch (data.event) {
+            case 'message': // нові повідомлення в чат
+                break;
+
+            case 'system': // системні повідомлення (не обовязково опрацьовувати)
+                break;
+
+            case 'exception': // помилки
+                break;
+        
+            default:
+                break;
+        }
+    };
+```
+
+
+**Chat history**
+Щоб отримати історію чату потрбіно зробити наступний запит
+```javascript
+GET: 'https://simple-chat-demo.herokuapp.com/chat/0000'
+
+де `0000` - це connectId чату історію якого ми хочемо отримати
+
+```
+
+**Приклад запиту**
+```javascript
+fetch('https://simple-chat-demo.herokuapp.com/chat/2200', {
+    method: "GET",
+    headers: {
+        'Content-Type': 'application/json',
+        'Authorization': 'Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuaWNrbmFtZSI6Im5pY2stMSIsInN1YiI6IjVmYjQwNWIyMDhlZDljMDAxN2MzY2E2MSIsImlhdCI6MTYwNjEyNDMyOSwiZXhwIjoxNjA2NzI5MTI5fQ.Ant5XLExJMzZmQsM0KNC-yK-cV-dzkfSHSXZto6Uifw'
+    }
+})
+.then(res => res.json())
+.then((data) => {
+    console.log(data);
+})
+```
+
 
